@@ -2,7 +2,7 @@
 
 「PicoXevious」は、DOZANさんが開発された「Raspberry Pi Pico版 Xeviousもどき」を基板化したものです。<BR>
 プログラムの書き込みや使い方については、DOZANさんの下記のページを参照してください。<BR>
-（Ver.1.0は、5Vがarduinoシールド用の端子には出力されていないため後述する1部の液晶モジュールでは5Vを供給する改修が必要です。ご注意下さい。）<BR>
+（Ver.1.0は、5Vがarduinoシールド用の端子には出力されていないため後述する1部の液晶モジュールでは5Vを供給する改修が必要です）<BR>
 
 Raspberry Pi Pico版 Xeviousもどき<BR>
 https://github.com/dozan5/pico_Xevious_lcd
