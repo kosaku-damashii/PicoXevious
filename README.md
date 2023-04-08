@@ -13,4 +13,4 @@ PicoXeviousの特徴<BR>
 ・音声出力を外部に取り出すことが出来るので、外部スピーカーを接続することが出来ます。<BR>
 
 
-![DSC00868](https://user-images.githubusercontent.com/62051355/197397971-72bc21b5-4d46-43b7-a28f-3a4df74e3ba1.JPG)
+![DSC01228](https://user-images.githubusercontent.com/62051355/230727969-cdda31c2-3542-435a-b6f3-ea0817d7b854.JPG)
